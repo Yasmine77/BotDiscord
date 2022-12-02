@@ -1,0 +1,58 @@
+{
+  "answers": [
+    {
+      "questions": "QU’EST CE QUE LE VIH/SIDA ?",
+
+      "response": "Les virus de l'immunodéficience humaine sont deux espèces de lentivirus qui infectent l'homme. Au fil du temps, ils provoquent le syndrome d'immunodéficience acquise, une condition dans laquelle une défaillance progressive du système immunitaire permet aux infections opportunistes et aux cancers potentiellement mortels de se développer."
+    },
+    {
+      "questions": "Quelle sont les symptômes ?",
+
+      "response": "la fièvre,une fatigue,des frissons,un mal de gorge, des maux de tête,des douleurs articulaires,des douleurs musculaires,l'enflure de glandes (ganglions lymphatiques)."
+    },
+    {
+      "questions": "Quels moyens de prévention contre le sida ?",
+
+      "response": "Ne pas partager de seringues ou d'aiguilles usagées ,ne pas avoir de rapports sexuels non protégés et couvrir toute plaie d’un pansement."
+    },
+    {
+      "questions": "HI",
+
+      "response": "Bonjour, comment puis-je vous aider ?"
+    },
+
+    {
+      "questions": "Combien de temps faut-il à une personne infectée par le VIH pour développer le sida ?",
+
+      "response": "La durée varie grandement selon les personnes. Il peut s’écouler 10 à 15 ans, parfois plus, parfois moins, entre l’infection au VIH et les symptômes du sida."
+    },
+
+    {
+      "questions": "Comment se transmet le VIH?",
+
+      "response": "Le virus est en quantité trop faible dans la salive, la sueur, les larmes, les vomissures ou l’urine pour être transmis.Par contre, le sang, le sperme, le liquide séminal (liquide transparent qui s’écoule au début de l’érection), les sécrétions vaginales, le liquide anal (rectal) et le lait maternel peuvent transmettre le VIH."
+    },
+    {
+      "questions": "thank you",
+
+      "response": "à votre service."
+    },
+
+    {
+      "questions": "quels traitements ?",
+
+      "response": "Aucun traitement ne permet d’éliminer complètement le VIH de l’organisme. L'objectif est de permettre aux personnes séropositives de stopper la prolifération du virus dans leur organisme pour conserver un système immunitaire opérationnel.."
+    },
+    {
+      "questions": "VIH ?",
+
+      "response": "L’abréviation VIH signifie virus de l’immunodéficience humaine. Il s’agit d’un rétrovirus qui infecte les cellules du système immunitaire de l’être humain (en particulier les lymphocytes T CD4+ et les cellules macrophages essentielles au système immunitaire des cellules). Il détruit ou dérègle leur fonctionnement. Le virus agit en fragilisant progressivement le système immunitaire jusqu’au stade de l’immunodéficience."
+    },
+
+    {
+      "questions": "Dépistage ?",
+
+      "response": "Le dépistage du VIH repose sur la recherche des anticorps contre le VIH-1 et le VIH-2 et de l'antigène P24 du virus. Un examen sanguin de dépistage, en laboratoire de biologie médicale, sans ordonnance, sans rendez-vous et sans avance de frais est possible."
+    }
+  ]
+}
